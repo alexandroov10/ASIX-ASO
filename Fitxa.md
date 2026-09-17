@@ -1,7 +1,7 @@
 # Fitxa 1 — Anàlisi inicial de MusicCloud
 
-**Nom i cognoms:** __________________________________________  
-**Data:** __________________  
+**Nom i cognoms:** Alexandro Ortega  
+**Data:** 17/09/2026  
 **Equip / parella:** _________________________________________
 
 ## Objectiu
