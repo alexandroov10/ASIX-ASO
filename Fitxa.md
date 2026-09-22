@@ -138,6 +138,8 @@ Què passaria si l'empresa tingués **100 treballadors** amb el mateix tipus d'a
 
 ---
 
+Seria un caos haver de gestionar tants permisos individuals, a mes que hauriem de canviar-los cada cop que algun treballador canviés de departament.
+
 ---
 
 ### 4.2.
@@ -146,6 +148,8 @@ Què passaria cada vegada que s'incorporés una persona nova?
 
 ---
 
+Hauriem de configurar els permisos de cada persona un per un cosa que portaria temps i no seria convenient.
+
 ---
 
 ### 4.3.
@@ -153,6 +157,8 @@ Què passaria cada vegada que s'incorporés una persona nova?
 Què passaria quan una persona canviés de departament?
 
 ---
+
+S'haurien de treure els antics permisos i configurar-li els nous 
 
 ---
 
@@ -163,6 +169,7 @@ Proposa una manera de gestionar aquestes persones conjuntament.
 No cal que coneguis encara el nom tècnic de la solució.
 
 ---
+Crar grups dels diferents departaments de l'empresa i assignar els permisos als grups no a les persones individualment, aixo ho faria tot mes facil, per exemple si entra un treballador nou, nomes l'hauriem d'afegir a aquest grups i se li assignariem automaticament els permisos que tenen els grups, i lo mateix si algu canvia o marxa de l'empresa treient-lo del departament li treuriem els permisos automaticament.
 
 ---
 
