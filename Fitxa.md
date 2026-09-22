@@ -71,12 +71,12 @@ Classifica alguns dels recursos següents segons la seva finalitat.
 
 |Recurs|Qui creus que l'hauria d'utilitzar?|Per a què?|
 |---|---|---|
-|`/empresa/comu/intercanvi`|||
-|`/empresa/comu/comunicats`|||
-|`/empresa/departaments/administracio/compartida`|||
-|`/empresa/departaments/administracio/gestio_departament`|||
-|`/empresa/projectes/campanya_estiu`|||
-|`/empresa/administracio_sistema/backups`|||
+|`/empresa/comu/intercanvi`|Tots els departaments|Perque es un recurs d'intercanvi de documents entre els departaments|
+|`/empresa/comu/comunicats`|Tots els departaments|Perque es un recurs tambe que es per compartir informacio entre els departaments|
+|`/empresa/departaments/administracio/compartida`|Departament d'administració|Es un recurs on comparteixien documents entre els membres d'administració|
+|`/empresa/departaments/administracio/gestio_departament`|Cap de departament d'administració|Perque pugui gestionar el seu departament|
+|`/empresa/projectes/campanya_estiu`|Direccio, Produccio Musical, Administracio|Com es un projecte d'estiu de l'empresa aquest serian els principals colaboradors|
+|`/empresa/administracio_sistema/backups`|Departament d'informatica|Perque els backups es un recurs delicat on nomes el tenen el coneixment necesari haurien de poder manipular|
 
 ---
 
