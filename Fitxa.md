@@ -99,12 +99,12 @@ No busquis encara una solució tècnica. Pensa només en les necessitats de l'em
 
 |Situació|Accés proposat|Justificació|
 |---|---|---|
-|Dídac accedeix a la carpeta compartida d'Administració|||
-|Laia accedeix a la gestió del departament d'Administració|||
-|Pere, treballador extern, accedeix als comunicats interns|||
-|Talia accedeix als backups del sistema|||
-|Un membre de Producció musical accedeix a la carpeta d'Administració|||
-|Un participant de `campanya_estiu` accedeix als fitxers del projecte|||
+|Dídac accedeix a la carpeta compartida d'Administració|L/E|Es una carpeta del seu departament|
+|Laia accedeix a la gestió del departament d'Administració|L/E|Es la cap de departament per tant ha de poder tenir els permisos per gestionar el seu departament|
+|Pere, treballador extern, accedeix als comunicats interns|NA|En Pere es un treballador extern que no te perque poder tenir accesos a la informacio confidencial de l'empresa|
+|Talia accedeix als backups del sistema|ADM|Acces total perque la gestio de backups es part del departament informatica|
+|Un membre de Producció musical accedeix a la carpeta d'Administració|NA|Els membres del departament de produccio no tenen perque tenir accessos a la carpeta d'administracio|
+|Un participant de `campanya_estiu` accedeix als fitxers del projecte|L/E|Si algu esta implicat en el projecte ha de poder accedir i modificar els fitxers|
 
 ---
 
