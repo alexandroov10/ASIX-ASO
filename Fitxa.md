@@ -45,14 +45,15 @@ Completa la taula següent.
 Quines diferències observes entre un **treballador**, un **departament** i una **funció o responsabilitat**?
 
 ---
+El treballador es una persona fisica, el departament es l'area d'una empresa on s'agrupen els treballador que fan tenen les mateixes responsabilitat, i la funcio o responsabilitat son les tasque o rols que tenen els treballadors.
 
 ---
 
----
+
 
 Hi ha persones que, pel seu càrrec o funció, necessiten accessos diferents dels altres membres del seu departament?
 
-☐ Sí  
+X Sí  
 ☐ No
 
 Posa'n algun exemple:
@@ -61,8 +62,7 @@ Posa'n algun exemple:
 
 ---
 
----
-
+Si per exemple la Talia que es la cap del departament d'informaticio ha de tenir els tots els permisos d'administradora perque precisament es la que mes coneixment te, en canvi l'Alex per les seves tasques no li fa falta aquest permisos per fer el seu treball, en cas de necesitar mes permisos hauria d'acudir a la cap de departament
 # 2. Recursos de l'empresa
 
 Analitza l'estructura d'informació de MusicCloud.
