@@ -29,13 +29,15 @@ Completa la taula següent.
 
 |Persona|Departament|Funció / responsabilitat|Necessita privilegis especials? Per què?|
 |---|---|---|---|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|Aina Ciriuans|Direcció|CEO|Si, perque al ser la directora ha de poder tenir acces a tots els documents de la empresa |
+|Laia Macias|Administració|Cap d'administració|Si per els documents o informacio del seu departament, pero per els altres departaments no hauria de tenir permisos especials|
+|Dídac Gassó|Administració|Gestio de treballador i factures|No hauria de tenir el permisos minims propis del seu departament per poder fer les seves tasques sense problemes|
+|Lluisa Richart|Suport Tècnic|Cap de suport tècnic|Si per poder exercir les seves tasques de suport sense problemes|
+|Estel Birosta|Suport Tecnic|Técnica de suport|Si per supervisar i solventar els porblemes|
+|Meritxell Reglat|Producccio Musical|Cap de produccio musical|No hauria de tenir permisos especials a part del seus propis del departament de musica|
+|Talia Costas|Informàtica|Cap d'informatica|Si necesita el privilegi d'administrador per poder mantenir tot el sistema i poder solventar els problemes si ha algun tipus d'error |
+|Alex Soriano|Informatica|Asistent informatic|Si pero no tants com la Talia, haruria de tenir els permisos per fer les seves tasques basiques |
+|Neus Bages|Empresa Externa|Tecnic|No, ha de tenir els permisos minims necesaris per fer nomes les tasques nomes podent modificar el minim indispensable|
 |||||
 
 ### 1.1. Reflexió
