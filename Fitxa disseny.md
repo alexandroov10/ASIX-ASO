@@ -122,10 +122,15 @@ Indica:
 **En quina OU ubicaries el seu compte?**
 
 ---
+A la unitat organitzativa de direcció
+
+---
 
 **A quins grups podria pertànyer?**
 
 ---
+Al grup de direcció i al de projecte d'estiu
+
 
 ---
 
