@@ -13,9 +13,9 @@ Indica quins tipus d'objectes consideres que ha de contenir el servei de directo
 
 |Tipus d'objecte|Exemples a MusicCloud|
 |---|---|
-|Usuaris||
-|Grups||
-|Equips||
+|Usuaris|Comptes personals|
+|Grups|Grups per departaments|
+|Equips|Ordinadors de sobretaula|
 |Servidors||
 |Comptes d'aplicacions o serveis||
 
@@ -45,7 +45,31 @@ Dibuixa l'estructura que utilitzaries per organitzar els usuaris de MusicCloud.
 ```text
 MusicCloud
 │
-└──
+├── Direcció
+│   ├── Aina Ciurans (CEO)
+│   ├── Rut Tornil
+│   
+│
+├── Administració
+│   ├── Laia Macias (Cap departament)
+│   ├── Estel Birosta
+│   └── Aina Zuriguel
+│
+├── Suport Tècnic
+│   ├── Lluïsa Richart (Cap departament)
+│   ├── Roser Alberch
+│   └── Guillem Adella
+│
+├── Producció Musical
+│   ├── Meritxell Reglat (Cap departament)
+│   ├── Alícia Monclús
+│   ├── Carles Molins
+│   └── Eulàlia Galcera
+│
+└── Informàtica
+    ├── Talia Costas (Cap departament)
+    └── Alex Soriano
+    
 ```
 
 ---
