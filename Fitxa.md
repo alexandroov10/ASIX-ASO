@@ -249,6 +249,7 @@ Administració → carpeta_administracio → L/E
 Quin avantatge té aquesta solució respecte a donar permisos persona per persona?
 
 ---
+Estalviem molts de temps, ja que es molt mes rapid que anar un a un canviant permisos
 
 ---
 
@@ -257,6 +258,7 @@ Quin avantatge té aquesta solució respecte a donar permisos persona per person
 Si Dídac passa d'Administració a Producció musical, què caldria modificar?
 
 ---
+Treure 
 
 ---
 
