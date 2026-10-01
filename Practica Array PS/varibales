@@ -23,10 +23,17 @@ Amb l'array anterior, mostra:
 - el segon servidor;
 - el quart servidor.
 
+![alt text](<captures/mostra_servidor.png>)
+
 Respon:
 
 **Quina és la posició del primer element d'un array?**
+---
+La posició 0 perque l'array comença a comptar des del 0
+
+---
 ## 3. Comptar elements
+
 Utilitza:
 ```powershell
 .Count
