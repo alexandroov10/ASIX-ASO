@@ -326,11 +326,13 @@ Campanya Estiu
 Creus que hauríem de canviar-les de departament?
 
 ☐ Sí  
-☐ No
+X No
 
 Si no, com podríem donar-los accés als recursos del projecte?
 
 ---
+
+No faria falta canviar-los de departament només hauriem de crear un grup per al projecte i afegir els usuaris al grup.
 
 ---
 
