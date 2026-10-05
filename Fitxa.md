@@ -377,12 +377,15 @@ Analitza aquesta afirmació:
 Explica amb les teves paraules què significa.
 
 ---
+Significa que un usuari nomes pot tenir permisos per fer exclusivament la seva tasca i no poder tenir access a recursos no sigui indispensable per fer el seu treball
 
 ---
 
 Posa un exemple relacionat amb MusicCloud.
 
 ---
+
+Un trebllador de produccio musical no pot tenir accessos als backups del departament d'informatica perque no es necesari per fer la seva feina.
 
 ---
 
