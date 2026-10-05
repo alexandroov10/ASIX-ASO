@@ -258,7 +258,7 @@ Estalviem molts de temps, ja que es molt mes rapid que anar un a un canviant per
 Si Dídac passa d'Administració a Producció musical, què caldria modificar?
 
 ---
-Treure 
+Treure'l del departament d'administració i afegir-lo al departament de produccio musical
 
 ---
 
@@ -267,6 +267,7 @@ Treure
 Com anomenaries aquests conjunts de persones?
 
 ---
+Grups d'usuaris
 
 ---
 
@@ -278,11 +279,12 @@ A partir de l'organització de l'empresa, proposa els primers conjunts de person
 
 |Nom proposat|Qui hi pertanyeria?|Per què existeix aquest conjunt?|
 |---|---|---|
-||||
-||||
-||||
-||||
-||||
+|grup_direccio|Aina Ciriuans, Rut Tornil|Per els dirigents de l'empresa|
+|grup_administracio|Dídac Gassó, Laia Macias|Treballadors del departament d'administracio|
+|grup_suport_tecnic|Estel Birosta, Lluisa Richart, Aina Zurigel| Treballadors del departament de suport tècnic|
+|grup_produccio_musical|Meritxell Reglat, Roser Alberch, Guillem Adella, Alícia Monclús, Carles Molins, Eulalia Galcera| Treballadors del departament de produccio musical|
+|grup_informatica|Alex Soriano, Talia Costas|Treballadors del departament d'informàtica|
+|grup_cap_dept|Aina Ciruans, Laia Macias, Lluisa Richart, Mertixell Reglat, Talia Costas| Treballadors que son cap de depratament|
 
 ---
 
