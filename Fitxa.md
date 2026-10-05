@@ -295,17 +295,21 @@ Laia treballa al departament d'Administració, però també és la responsable d
 És suficient que pertanyi només al conjunt `Administració`?
 
 ☐ Sí  
-☐ No
+X No
 
 Per què?
 
 ---
+
+Perque com a cap de departament te funcions diferents a un treballador normal, per tant neceista mes permisos que un trebllador normal per poder fer la seva feina
 
 ---
 
 Quina possible solució proposes?
 
 ---
+
+Mantenir a Laia al grup de departemnt pero tambe afegir-la a un grup on hi hagi els caps de departaments
 
 ---
 
