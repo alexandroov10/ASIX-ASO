@@ -344,25 +344,25 @@ Completa les frases amb les teves paraules.
 
 ### Usuari
 
-Un usuari representa:
+Un usuari representa: La identitat d'una persona, o dispositiu que vol accedir a un recurs
 
 ---
 
 ### Recurs
 
-Un recurs és:
+Un recurs és: Un element del sistema al qual s'hi vol accedir
 
 ---
 
 ### Permís
 
-Un permís determina:
+Un permís determina: Les accions que un usuari pot fer sobre un recurs
 
 ---
 
 ### Grup
 
-Un grup serveix per:
+Un grup serveix per: gestionar varis usuaris assignant permisos
 
 ---
 
