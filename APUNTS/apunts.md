@@ -19,3 +19,4 @@ Abans de filtrar o manipular, cal conèixer les propietats i mètodes de l'objec
 
 ```powershell
 Get-Process | Get-Member
+
