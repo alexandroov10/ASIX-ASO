@@ -123,13 +123,14 @@ Indica:
 
 ---
 A la unitat organitzativa de direcció
+> A la OU d'administració
 
 ---
 
 **A quins grups podria pertànyer?**
+> Als grups d'administracio i campanya estiu
 
 ---
-Al grup de direcció i al de projecte d'estiu
 
 
 ---
@@ -137,9 +138,9 @@ Al grup de direcció i al de projecte d'estiu
 ### Per què no és contradictori que estigui en una OU però pertanyi a diversos grups?
 
 ---
+Perque la unitat organitzativa serveix per definir l'estrucutra i organitzacio de l'empresa, mentre que els grups serveixen per assignar permisos.
 
 ---
-
 ---
 
 # 5. Servei de directori
@@ -148,11 +149,14 @@ Explica breument què entens per **servei de directori**.
 
 ---
 
+> Es una base de dades centralitzada que permet emmagatzemar i gestionar informacio del usuaris, grups, servidors, recursos.
+
 ---
 
 Quin problema resol a MusicCloud?
 
 ---
+> Haver de crear usuari per usuari i assignar els permisos un per un tambe.
 
 ---
 
