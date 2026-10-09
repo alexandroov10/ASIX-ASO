@@ -167,10 +167,12 @@ Quin problema resol a MusicCloud?
 Completa les frases següents.
 
 **LDAP és:**
+> Un protocol que permet accedir i consultar informacio del directori
 
 ---
 
 **LDAP no és:**
+> Una base de dades com per exemple l'SQL
 
 ---
 
@@ -178,10 +180,10 @@ Indica si les afirmacions són certes o falses.
 
 |Afirmació|C|F|
 |---|:-:|:-:|
-|LDAP és sinònim d'Active Directory|☐|☐|
-|LDAP permet accedir i consultar informació d'un directori|☐|☐|
-|OpenLDAP és una implementació d'un servei de directori|☐|☐|
-|Active Directory utilitza LDAP, entre altres tecnologies|☐|☐|
+|LDAP és sinònim d'Active Directory|☐|X|
+|LDAP permet accedir i consultar informació d'un directori|X|☐|
+|OpenLDAP és una implementació d'un servei de directori|X|☐|
+|Active Directory utilitza LDAP, entre altres tecnologies|X|☐|
 
 ---
 
