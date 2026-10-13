@@ -207,12 +207,64 @@ Ha de mostrar, com a mínim:
     
 
 ```text
-MusicCloud
+musiccloud
 │
+├── ou=Departaments
+│   ├── ou=Direccio
+│   │   ├── us=aina_ciurans
+│   │   ├── us=rut_tornil
+│   │   └── us=didac_gasso
+│   │
+│   ├── ou=Administracio
+│   │   ├── us=laia_macias
+│   │   ├── us=estel_birosta
+│   │   └── us=aina_zuriguel
+│   │
+│   ├── ou=SuportTecnic
+│   │   ├── us=lluisa_richart
+│   │   ├── us=roser_alberch
+│   │   └── us=guillem_adella
+│   │
+│   ├── ou=ProduccioMusical
+│   │   ├── us=meritxell_reglat
+│   │   ├── us=alicia_monclus
+│   │   ├── us=carles_molins
+│   │   └── us=eulalia_galcera
+│   │
+│   └── ou=Informatica
+│       ├── us=talia_costas
+│       └── us=alex_soriano
 │
+├── ou=Grups
+│   ├── ou=Departamentals
+│   │   ├── cn=grp_direccio
+│   │   ├── cn=grp_administracio
+│   │   ├── cn=grp_suport_tecnic
+│   │   ├── cn=grp_produccio_musical
+│   │   └── cn=grp_informatica
+│   │
+│   ├── ou=Rols
+│   │   ├── cn=grp_caps_departament
+│   │   └── cn=grp_empleats
+│   │
+│   └── ou=Projectes
+│       └── cn=grp_campanya_estiu
 │
+├── ou=Equips
+│   ├── cn=PC-Administracio-01
+│   ├── cn=PC-SuportTecnic-01
+│   ├── cn=Portatil-Produccio-01
+│   └── cn=Portatil-Direccio-AINA
 │
+├── ou=Servidors
+│   ├── cn=SRV-DOMINI
+│   ├── cn=SRV-FITXERS
+│   ├── cn=SRV-BACKUP
+│   └── cn=SRV-WEB
 │
+└── ou=Serveis
+    ├── uid=svc_backup
+    ├── uid=svc_monitoratge
 ```
 
 ---
