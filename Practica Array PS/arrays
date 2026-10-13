@@ -70,7 +70,11 @@ Respon (i digues quina comanda has executat per obtenir la resposta):
 - Quants ports hi ha?
 >![alt text](image-1.png)
 - Quin és el primer?
+>El 22
+![alt text](image-2.png)
 - Quin és l'últim?
+> El 3389
+![alt text](image-3.png)
 - Quin tipus té el primer element?
 
 ## 6. Array i variables
