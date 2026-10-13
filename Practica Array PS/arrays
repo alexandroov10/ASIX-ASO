@@ -86,6 +86,7 @@ $servidor2 = "SRV02"
 $servidor3 = "SRV03"
 ```
 Després crea un array a partir d'aquestes variables:
+![alt text](image-4.png)
 
 Mostra'n el contingut.
 ## 7. Resultats d'un cmdlet
