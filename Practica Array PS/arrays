@@ -92,6 +92,9 @@ Mostra'n el contingut.
 ## 7. Resultats d'un cmdlet
 
 Utilitza un array per a determinar el número de processos que s'estan executant en el sistema.
+
+> Introduim get-process dintre del array i despres fem un count i ens donara el numero de processos que s'estan executant
+![alt text](image-5.png)
 ## 8. General
 
 Crea un array:
