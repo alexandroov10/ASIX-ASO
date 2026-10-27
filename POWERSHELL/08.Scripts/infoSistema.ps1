@@ -1,0 +1,6 @@
+Write-Host "==========  INFORMACIÓ DEL SISTEMA  =========="
+Write-Host "El nom del equip es : $(hostname)"
+Write-Host "El usuari actual es : $(whoami)"
+Write-Host "La versio de powershell es : $($PSVersionTable.PSVersion)"
+Write-Host "La data i hora actual es : $(Get-Date -Format 'dd/MM/yyyy HH:mm:ss')"
+Write-Host "El directori actual es : $(Get-Location)"

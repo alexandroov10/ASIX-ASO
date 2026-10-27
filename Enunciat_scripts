@@ -1,0 +1,49 @@
+Part 1: Script bàsic amb nom variable
+
+Crea un script que creï una OU utilitzant només el nom de la OU.
+
+El nom no ha d’estar escrit dins del codi, sinó que l’usuari l’ha d’indicar en executar l’script (per exemple, com a paràmetre).
+Exemple d’ús: .\crearOU.ps1 Vendes
+Part 2: Nom i ruta variables
+
+Amplia l’script perquè accepti dos paràmetres:
+
+El nom de la OU.
+La ruta (el contenidor on es crearà, per exemple DC=empresa,DC=local o OU=Espanya,DC=empresa,DC=local).
+
+Cap dels dos valors pot estar fix dins del codi.
+
+Exemple d’ús: .\crearOU.ps1 Vendes "OU=Espanya,DC=empresa,DC=local"
+
+Part 3: L’ordre dels paràmetres no ha d’importar
+
+Modifica l’script anterior perquè l’usuari pugui escriure els paràmetres en qualsevol ordre. Per això cal utilitzar paràmetres amb nom (-Nom i -Ruta).
+
+Aquestes dues crides han de fer exactament el mateix:
+
+.\crearOU.ps1 -Nom Vendes -Ruta "DC=empresa,DC=local"
+.\crearOU.ps1 -Ruta "DC=empresa,DC=local" -Nom Vendes
+Part 4: Paràmetre obligatori i valor per defecte
+El nom de la OU és obligatori. Si l’usuari no l’indica, l’script ha de demanar-lo o mostrar un error clar.
+La ruta és opcional. Si l’usuari no l’especifica, l’script ha d’utilitzar una ruta per defecte (per exemple, l’arrel del domini). Aquest valor per defecte ha d’estar definit a l’script.
+Part 5: L’script ha de funcionar en totes les situacions
+
+L’script ha de gestionar correctament tots els casos possibles, per exemple:
+
+Només s’indica el nom (s’usa la ruta per defecte).
+S’indiquen nom i ruta, en qualsevol ordre.
+No s’indica el nom (error o petició del valor).
+La OU ja existeix (avisar sense generar un error).
+La ruta indicada no existeix o és incorrecta (informar l’usuari).
+El nom o la ruta contenen espais o caràcters especials.
+Part 6: Crear totes les unitats organitzatives de la ruta
+
+L’script ha de crear totes les OU que l’usuari indiqui a la ruta, encara que no existeixin prèviament.
+
+Per exemple, si l’usuari demana crear la OU Barcelona dins de OU=Espanya,OU=Empresa,DC=empresa,DC=local i les OU Empresa i Espanya no existeixen, l’script les ha de crear primer (de fora cap a dins) i, finalment, crear Barcelona.
+
+Part 7: No es pot utilitzar cat codet
+
+L’script no pot basar-se en el valor fix (hardcoded) del domini. Tota la informació, com el nom de la OU, la ruta i el domini, ha de ser variable o obtenir-se dinàmicament (per exemple, amb Get-ADDomain).
+
+Si vols, pots confirmar si aquest enunciat reflecteix el que demana l’exercici (sobretot la part 7, que no tinc clar que l’hagi interpretat bé) i després et preparo l’script complet.
