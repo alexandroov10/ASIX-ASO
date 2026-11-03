@@ -1,5 +1,5 @@
 param(
-    [Parameter(Mandatory=$true)]
+    [Parameter(Mandatory=$false)]
     [string]$nomOU,
     [Parameter(Mandatory=$false)]
     [string]$ruta = "DC=musiccloud, DC=local"
