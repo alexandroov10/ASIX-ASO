@@ -45,7 +45,7 @@ Completa la taula següent.
 Quines diferències observes entre un **treballador**, un **departament** i una **funció o responsabilitat**?
 
 ---
-El treballador es una persona fisica, el departament es l'area d'una empresa on s'agrupen els treballador que fan tenen les mateixes responsabilitat, i la funcio o responsabilitat son les tasque o rols que tenen els treballadors.
+>El treballador es una persona fisica, el departament es l'area d'una empresa on s'agrupen els treballador que fan tenen les mateixes responsabilitat, i la funcio o responsabilitat son les tasque o rols que tenen els treballadors.
 
 ---
 
@@ -53,7 +53,7 @@ El treballador es una persona fisica, el departament es l'area d'una empresa on 
 
 Hi ha persones que, pel seu càrrec o funció, necessiten accessos diferents dels altres membres del seu departament?
 
-X Sí  
+>X Sí  
 ☐ No
 
 Posa'n algun exemple:
